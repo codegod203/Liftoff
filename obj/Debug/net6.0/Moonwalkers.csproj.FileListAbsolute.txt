@@ -1,0 +1,9 @@
+C:\Users\ohmlo\source\repos\moonwalkers\Moonwalkers\obj\Debug\net6.0\Moonwalkers.csproj.AssemblyReference.cache
+C:\Users\ohmlo\source\repos\moonwalkers\Moonwalkers\obj\Debug\net6.0\Moonwalkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohmlo\source\repos\moonwalkers\Moonwalkers\obj\Debug\net6.0\Moonwalkers.AssemblyInfoInputs.cache
+C:\Users\ohmlo\source\repos\moonwalkers\Moonwalkers\obj\Debug\net6.0\Moonwalkers.AssemblyInfo.cs
+C:\Users\ohmlo\source\repos\moonwalkers\Moonwalkers\obj\Debug\net6.0\Moonwalkers.csproj.CoreCompileInputs.cache
+C:\Users\ohmlo\source\repos\moonwalkers\Moonwalkers\obj\Debug\net6.0\Moonwalkers.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ohmlo\source\repos\moonwalkers\Moonwalkers\obj\Debug\net6.0\Moonwalkers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ohmlo\source\repos\moonwalkers\Moonwalkers\obj\Debug\net6.0\Moonwalkers.RazorAssemblyInfo.cache
+C:\Users\ohmlo\source\repos\moonwalkers\Moonwalkers\obj\Debug\net6.0\Moonwalkers.RazorAssemblyInfo.cs
