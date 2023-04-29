@@ -10497,32 +10497,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\satir\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\tthom\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\satir\\source\\repos\\Liftoff-Project\\moonwalkers\\Moonwalkers\\Moonwalkers.csproj",
+      "projectUniqueName": "C:\\Users\\tthom\\OneDrive\\Desktop\\launchcode\\fc liftoff\\Liftoff\\Moonwalkers.csproj",
       "projectName": "Moonwalkers",
-      "projectPath": "C:\\Users\\satir\\source\\repos\\Liftoff-Project\\moonwalkers\\Moonwalkers\\Moonwalkers.csproj",
-      "packagesPath": "C:\\Users\\satir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\satir\\source\\repos\\Liftoff-Project\\moonwalkers\\Moonwalkers\\obj\\",
+      "projectPath": "C:\\Users\\tthom\\OneDrive\\Desktop\\launchcode\\fc liftoff\\Liftoff\\Moonwalkers.csproj",
+      "packagesPath": "C:\\Users\\tthom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tthom\\OneDrive\\Desktop\\launchcode\\fc liftoff\\Liftoff\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\satir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tthom\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10601,7 +10603,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
